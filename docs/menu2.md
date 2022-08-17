@@ -1,11 +1,14 @@
 ---
 layout: default
-title : Python
+title : Pythona
 nav-order: 2
 ---
 
-# Menu2
+
+
+
+# Title of Menu2
 {: .no_toc }
 
-Menu2 Test
+Description of MEnu2
 {: .fs-6 .fw-300}
