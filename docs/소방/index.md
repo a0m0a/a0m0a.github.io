@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 소방
+title: 소방설비기사
 nav_order: 2
 has_children: true
 ---
